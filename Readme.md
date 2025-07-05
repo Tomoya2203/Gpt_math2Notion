@@ -4,6 +4,7 @@ ChatGptの数式をNotionページ内に貼り付けた(Control Shift Vした)�
 
 数式を一つずつ手作業で変換する手間が無くなります。
 
+## 実行例
 
 スクリプト実行前のNotion画面([独立(確率論): Wikipedia](https://ja.wikipedia.org/wiki/%E7%8B%AC%E7%AB%8B_(%E7%A2%BA%E7%8E%87%E8%AB%96))の式をchatGPTに入力してNotionに貼り付けたもの)
 ![数式の変換前](images/1.png)
@@ -134,7 +135,7 @@ pip install requests
 
 ## ライセンス (License)
 
-このプロジェクトは [MIT License](https://www.google.com/search?q=LICENSE) の下で公開されています。
+このプロジェクトは [MIT License](https://opensource.org/license/mit) の下で公開されています。
 
 ## 免責事項 (Disclaimer)
 
